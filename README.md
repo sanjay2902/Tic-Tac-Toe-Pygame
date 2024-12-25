@@ -16,7 +16,7 @@ A modern and interactive Tic Tac Toe game built using **Pygame**, featuring two 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/sanjay2902/Tic-Tac-Toe-Pygame.git
    cd tic-tac-toe
 2.pip install pygame
 3.python tic_tac_toe.py
